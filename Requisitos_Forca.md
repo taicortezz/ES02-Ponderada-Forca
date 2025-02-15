@@ -22,6 +22,10 @@
 
 # Requisitos Não Funcionais do Jogo 
 
+<div align="center">
+<sub> Quadro 1 - Requisitos Funcionais </sub>
+
+
 | Código  | Requisito                     | Descrição |
 |---------|--------------------------------|-----------|
 | RNF01   | Carregamento rápido           | O jogo deve abrir a tela inicial em menos de 2 segundos. |
@@ -31,3 +35,6 @@
 | RNF05   | Acessibilidade                 | O jogo deve ser acessível para todos, incluindo suporte para leitores de tela. |
 | RNF06   | Segurança dos dados            | O jogo deve proteger as informações dos jogadores, armazenando senhas de forma segura. |
 | RNF07   | Responsividade           | O jogo deve ajustar sua aparência automaticamente para diferentes tamanhos de tela. |
+
+<sup>Fonte: material elaborado pelos autores (2025).</sup>
+</div>
