@@ -23,7 +23,7 @@
 # Requisitos Não Funcionais do Jogo 
 
 <div align="center">
-<sub> Quadro 1 - Requisitos Funcionais </sub>
+<sub> Quadro 1 - Requisitos Não Funcionais </sub>
 
 
 | Código  | Requisito                     | Descrição |
